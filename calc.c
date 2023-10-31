@@ -5,4 +5,5 @@ void main(){
     scanf("%d %d",&a,&b);
     printf("Addition of the values is %d",a+b);
     printf("\nDifference of the values is %d",a-b);
+    printf("\nMultiplication of the value is %d",a*b);
 }
