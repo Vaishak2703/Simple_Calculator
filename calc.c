@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<math.h>
-void main(){
+#aawd
+awdawa
+asdasda
     int a,b,n;
     printf("Enter the numbers:");
     scanf("%d %d",&a,&b);
