@@ -11,5 +11,3 @@ Where for the first few versions I have added some basic operations like
 - Division
 
 Expect some more future updates (;
-
-# Practice1
